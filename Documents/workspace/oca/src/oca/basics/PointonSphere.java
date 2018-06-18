@@ -34,5 +34,8 @@ public class PointonSphere {
 			Math.round(angleA * 100) / 100.0 + "\n " +
 			Math.round(angleB * 100) / 100.0 + "\n " +
 			Math.round(angleC * 100) / 100.0);	
+		
+		
+		
 	}
 }

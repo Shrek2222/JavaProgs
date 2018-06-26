@@ -2,7 +2,7 @@ package oca.basics;
 
 import java.util.Scanner;
 
-public class BegNLastDays { //Ch5.Ex.28
+public class BegNLastDays { 
 	public static void main(String[] args) {
 		
 		Scanner in = new Scanner(System.in);
